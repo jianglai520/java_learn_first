@@ -1,0 +1,19 @@
+### Maven ###
+target/
+
+### Java ###
+*.class
+*.log
+hs_err_pid*
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### VS Code ###
+.vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
