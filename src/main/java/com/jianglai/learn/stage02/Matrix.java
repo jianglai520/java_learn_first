@@ -1,8 +1,7 @@
 package com.jianglai.learn.stage02;
 
 /**
- * 矩阵类 Matrix
- */
+ * 矩阵类 Matrix */
 public class Matrix {
     private int rows;
     private int cols;
