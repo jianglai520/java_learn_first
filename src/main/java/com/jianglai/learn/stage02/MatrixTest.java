@@ -1,8 +1,7 @@
 package com.jianglai.learn.stage02;
 
 /**
- * 测试类：验证 Matrix 类的功能
- */
+ * 测试类：验证 Matrix 类的功能 */
 public class MatrixTest {
     public static void main(String[] args) {
         // 1. 构造矩阵
